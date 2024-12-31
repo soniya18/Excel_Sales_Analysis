@@ -5,7 +5,7 @@ This project focuses on developing comprehensive **Sales** and **Finance** analy
 ## **Sales Report**
 
 ### **Project Objectives**:
-1. Develop a _[Customer Performance Report](https://github.com/yourusername/yourrepo/blob/main/CustomerPerformanceReport.pdf)_.
+1. Develop a _[Customer Performance Report] (https://github.com/soniya18/Excel_Sales_Analysis/blob/main/customer%20performance%20report.pdf)_.
 2. Perform a comparative analysis of _[Market Performance and Sales Targets](https://github.com/yourusername/yourrepo/blob/main/MarketPerformance_vs_SalesTargets.pdf)_.
 
 ### **Purpose of Sales Analytics**:
