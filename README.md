@@ -5,8 +5,8 @@ This project focuses on developing comprehensive **Sales** and **Finance** analy
 ## **Sales Report**
 
 ### **Project Objectives**:
-1. Develop a _[Customer Performance Report] (https://github.com/soniya18/Excel_Sales_Analysis/blob/main/customer%20performance%20report.pdf)_.
-2. Perform a comparative analysis of _[Market Performance and Sales Targets](https://github.com/yourusername/yourrepo/blob/main/MarketPerformance_vs_SalesTargets.pdf)_.
+1. Develop a _[Customer Performance Report](https://github.com/soniya18/Excel_Sales_Analysis/blob/main/customer%20performance%20report.pdf)_.
+2. Perform a comparative analysis of _[Market Performance and Sales Targets](https://github.com/soniya18/Excel_Sales_Analysis/blob/main/market%20performance%20vs%20target.pdf)_.
 
 ### **Purpose of Sales Analytics**:
 - Enable businesses to monitor and evaluate their sales activities and performance.
@@ -25,9 +25,9 @@ This project focuses on developing comprehensive **Sales** and **Finance** analy
 
 ### **Project Objectives**:
 1. Generate Profit and Loss (P&L) reports by:
-   - _[Fiscal Year](https://github.com/yourusername/yourrepo/blob/main/PL_by_FiscalYear.pdf)_
-   - _[Months](https://github.com/yourusername/yourrepo/blob/main/PL_by_Months.pdf)_
-2. Create Profit and Loss (P&L) reports by _[Markets](https://github.com/yourusername/yourrepo/blob/main/PL_by_Markets.pdf)_.
+   - _[Fiscal Year](https://github.com/soniya18/Excel_Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_
+   - _[Months](https://github.com/soniya18/Excel_Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_
+2. Create Profit and Loss (P&L) reports by _[Markets](https://github.com/soniya18/Excel_Sales_Analysis/blob/main/market%20performance%20vs%20target.pdf)_.
 
 ### **Purpose of Finance Analytics**:
 - Evaluate financial performance.
